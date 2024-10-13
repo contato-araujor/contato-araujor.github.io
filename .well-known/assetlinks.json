@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.araujor.inshape",
+        "sha256_cert_fingerprints": [
+          "D6:48:B7:3F:5E:34:7E:93:E8:C1:86:44:09:32:BC:9E:47:97:02:AC:8E:4C:DE:50:13:E0:41:E7:82:BA:F8:F2"
+        ]
+      }
+    }
+  ]
