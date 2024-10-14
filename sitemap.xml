@@ -12,10 +12,5 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
-    <url>
-    <loc>https://www.araujor.com/.well-known/assetlinks.json</loc>
-    <lastmod>2024-10-14</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
 </urlset>
