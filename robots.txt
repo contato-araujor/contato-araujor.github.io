@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /admin/
-Allow: /app-ads.txt
-Allow: /sellers.json
+Disallow:
 
 Sitemap: https://www.araujor.com/sitemap.xml
