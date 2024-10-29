@@ -39,25 +39,25 @@
       align-items: center;
       background-color: #f0f0f0;
     }
-
-    .loader {
-      border: 16px solid #f3f3f3;
-      border-top: 16px solid #3498db;
-      border-radius: 50%;
-      width: 120px;
-      height: 120px;
-      animation: spin 2s linear infinite;
-    }
-
-    @keyframes spin {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
   </style>
+
+  <!-- Lottie Animation Script -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.7.13/lottie.min.js"></script>
 </head>
 <body>
   <!-- Loader -->
-  <div class="loader"></div>
+  <div id="lottie-loader" style="width: 120px; height: 120px;"></div>
+
+  <script>
+    // Carregar animação Lottie
+    lottie.loadAnimation({
+      container: document.getElementById('lottie-loader'),
+      renderer: 'svg',
+      loop: true,
+      autoplay: true,
+      path: 'loading.json' // Caminho para o arquivo Lottie
+    });
+  </script>
 
   <script src="flutter_bootstrap.js" async></script>
 </body>
