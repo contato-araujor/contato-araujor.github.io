@@ -2,13 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.araujor.com/</loc>
-    <lastmod>2024-10-13</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-03-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    <url>
+    <loc>https://www.araujor.com/#/politica_privacidade</loc>
+    <lastmod>2025-03-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    </url>
+    <url>
+    <loc>https://www.araujor.com/#/sobre</loc>
+    <lastmod>2025-03-31</lastmod>
+    <changefreq>yearly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.araujor.com/app-ads.txt</loc>
-    <lastmod>2024-10-13</lastmod>
+    <lastmod>2025-03-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+    <url>
+    <loc>https://www.araujor.com/robots.txt</loc>
+    <lastmod>2025-03-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+    </url>
+    <url>
+    <loc>https://www.araujor.com/sellers.json</loc>
+    <lastmod>2025-03-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
