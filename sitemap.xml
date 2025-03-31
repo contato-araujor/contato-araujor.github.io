@@ -12,7 +12,6 @@
     <changefreq>yearly</changefreq>
     <priority>1.0</priority>
   </url>
-    </url>
     <url>
     <loc>https://www.araujor.com/#/sobre</loc>
     <lastmod>2025-03-31</lastmod>
@@ -38,5 +37,4 @@
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
-  
 </urlset>
