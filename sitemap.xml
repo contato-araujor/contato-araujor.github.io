@@ -5,9 +5,6 @@
   <!-- URL principal com versões alternativas -->
   <url>
     <loc>https://www.araujor.com/</loc>
-    <xhtml:link rel="alternate" hreflang="pt-br" href="https://www.araujor.com/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.araujor.com/?hl=en" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.araujor.com/" />
     <lastmod>2025-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -16,7 +13,6 @@
   <!-- Páginas de conteúdo (mantendo #/) -->
   <url>
     <loc>https://www.araujor.com/#/politica_privacidade</loc>
-    <xhtml:link rel="alternate" hreflang="pt-br" href="https://www.araujor.com/#/politica_privacidade" />
     <lastmod>2025-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -24,7 +20,6 @@
   
   <url>
     <loc>https://www.araujor.com/#/sobre</loc>
-    <xhtml:link rel="alternate" hreflang="pt-br" href="https://www.araujor.com/#/sobre" />
     <lastmod>2025-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
