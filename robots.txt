@@ -1,4 +1,11 @@
 User-agent: *
+Allow: /
+Disallow: /assets/
 Disallow: /*?from=AppAgg.com
+Disallow: /*?hl=*
+Disallow: /*?ref=*
+Disallow: /*utm_*
 
+# Sitemaps
 Sitemap: https://www.araujor.com/sitemap.xml
+Sitemap: https://araujor.com/sitemap.xml
