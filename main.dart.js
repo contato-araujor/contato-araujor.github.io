@@ -75018,7 +75018,7 @@ rO(){var s=0,r=A.Q(t.AT),q
 var $async$rO=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=3
 return A.V(A.pM(B.bN,null,t.z),$async$rO)
-case 3:q=A.a([new A.hA("Inshape","Controle seu IMC, TMB e d\xe9ficit cal\xf3rico para emagrecer com sa\xfade!","nov/2024","assets/images/inshape.png","https://play.google.com/store/apps/details?id=com.araujor.inshape"),new A.hA("HealthTrack","Controle usas medi\xe7\xf5es de press\xe3o arterial e batimentos cardi\xe1cos para ter uma vida saud\xe1vel","mai/2025","assets/images/healthtrack.png","https://play.google.com/store/apps/details?id=com.araujor.healthtrack"),new A.hA("Taskify","Aplicativo para gerenciamento de tarefas e produtividade","jun/2025","assets/images/taskify.png","https://play.google.com/store/apps/details?id=com.example.app2")],t.vR)
+case 3:q=A.a([new A.hA("InShape","Controle seu IMC, TMB e d\xe9ficit cal\xf3rico para emagrecer com sa\xfade!","nov/2024","assets/images/inshape.png","https://play.google.com/store/apps/details?id=com.araujor.inshape"),new A.hA("HeartTrack","Controle usas medi\xe7\xf5es de press\xe3o arterial e batimentos cardi\xe1cos para ter uma vida saud\xe1vel","mai/2025","assets/images/healthtrack.png","https://play.google.com/store/apps/details?id=com.araujor.hearttrack"),new A.hA("TasKify","Aplicativo para gerenciamento de tarefas e produtividade","jun/2025","assets/images/taskify.png","https://play.google.com/store/apps/details?id=com.example.app2")],t.vR)
 s=1
 break
 case 1:return A.O(q,r)}})
