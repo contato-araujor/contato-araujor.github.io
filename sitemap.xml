@@ -14,7 +14,7 @@
   
   <!-- Páginas de conteúdo -->
   <url>
-    <loc>https://www.araujor.com/politica_privacidade</loc>
+    <loc>https://www.araujor.com/#/politica_privacidade</loc>
     <xhtml:link rel="alternate" hreflang="pt-br" href="https://www.araujor.com/#/politica_privacidade" />
     <lastmod>2025-05-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
   </url>
   
   <url>
-    <loc>https://www.araujor.com/sobre</loc>
+    <loc>https://www.araujor.com/#/sobre</loc>
     <xhtml:link rel="alternate" hreflang="pt-br" href="https://www.araujor.com/#/sobre" />
     <lastmod>2025-05-19</lastmod>
     <changefreq>monthly</changefreq>
