@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /app-ads.txt
+Allow: /.well-known/assetlinks.json
 Disallow: /assets/
 Disallow: /*?from=AppAgg.com
 Disallow: /*?hl=*
