@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.araujor.hearttrack",
+      "sha256_cert_fingerprints": [
+        "DB:19:44:5C:57:D2:F2:DC:AC:F3:E7:8E:E5:04:71:81:1E:EF:84:68:65:7A:AD:94:72:AD:C5:EE:81:47:93:87"
+      ]
+    }
+  }
+]
